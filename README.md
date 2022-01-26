@@ -40,7 +40,11 @@ $ sudo cp -R include/* /usr/include/
 
 ## build and run
 
+Use `make` to build the binary, or run the command show below:
+
 ```console
-$ g++ hello_triangle.cpp glad.c -ldl -lglfw
-$ ./a.out
+$ g++ triangle.cpp glad.c -ldl -lglfw
+$ ./triangle
 ```
+
+Note: the code in the triangle.cpp is taken from excellent website on OpenGL programming: <https://learnopengl.com/>
