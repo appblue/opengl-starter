@@ -1,6 +1,6 @@
 # OpenGL for Linux
 
-Simple 
+Simple OpenGL project that should run on Ubuntu/PopOS.
 
 ## setup libraries and tools
 
